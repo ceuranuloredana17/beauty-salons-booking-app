@@ -52,6 +52,3 @@ A modern web application for seamless salon management and appointment booking, 
 - Enhance security (two-factor authentication).
 - Integrate payment gateway for online payments.
 
----
-
-For more details, see the source code and
