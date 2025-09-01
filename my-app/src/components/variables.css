@@ -1,0 +1,51 @@
+:root {
+    /* Colors */
+    --primary: #e5358b;
+        --primary-dark: #b91f6f;
+    --primary-light: #BB86FC;
+
+    --secondary: #03DAC6;
+    --secondary-dark: #018786;
+
+    --accent: #FFA000;
+
+    --success: #4CAF50;
+    --warning: #FF9800;
+    --error: #B00020;
+
+    /* Neutrals */
+    --surface: #FFFFFF;
+    --background: #F5F7FA;
+    --text-primary: #1A1A1A;
+    --text-secondary: #585858;
+    --text-tertiary: #9E9E9E;
+    --text-light: #FFFFFF;
+    --border: #E0E0E0;
+
+    /* Spacing */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 24px;
+    --spacing-xl: 32px;
+    --spacing-xxl: 48px;
+
+    /* Border Radius */
+    --border-radius-sm: 4px;
+    --border-radius-md: 8px;
+    --border-radius-lg: 12px;
+    --border-radius-xl: 16px;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07), 0 1px 3px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.07), 0 5px 6px rgba(0, 0, 0, 0.05);
+    --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.04);
+
+    /* Typography */
+    --font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+    /* Transitions */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s ease; }

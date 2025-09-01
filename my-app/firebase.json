@@ -1,0 +1,13 @@
+{
+  "storage": {
+    "rules": "storage.rules",
+    "cors": [
+      {
+        "origin": ["http://localhost:3000", "https://salon-booking-app-5bfbe.web.app"],
+        "method": ["GET", "POST", "PUT", "DELETE", "HEAD"],
+        "maxAgeSeconds": 3600,
+        "responseHeader": ["Content-Type", "Content-Length", "Content-Encoding", "Content-Disposition"]
+      }
+    ]
+  }
+}
